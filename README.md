@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis Report
+# 📊 Customer Churn Analysis (Excel) Report
 
 ![Dashborad-Analyse_Customer_Churn_in_Excel](https://sennanliimages.blob.core.windows.net/viz/Dashborad-Analyse_Customer_Churn_in_Excel.png)
 
