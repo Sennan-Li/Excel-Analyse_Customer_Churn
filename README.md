@@ -14,7 +14,7 @@
 
 #### **Demographic & Usage Insights:**
 - 🎂 **Age:** While the largest customer age group is '30-65' (44%), churn rate noticeably increases for older age groups (especially 79-88).
-- 📶 **Data Consumption:** Churn is highest among users consuming 5-10GB. Lack of an unlimited plan appears correlated with higher churn across usage tiers.
+- 📶 **Data Consumption:** Churn is highest among users consuming 5-10GB. Churn is higher among users who are not in ultimate data plan and consume less than 5GB.
 - 🗺️ **Geography:** Churn is exceptionally high in specific states, notably CA (75%), IN (67%), and NH (63%). 
 
 #### **Summary:**
